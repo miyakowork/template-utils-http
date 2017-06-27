@@ -1,4 +1,4 @@
-package me.wuwenbin.http.javanet.base;
+package org.templateproject.http.javanet.base;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
@@ -13,7 +13,7 @@ import java.net.URLConnection;
 import java.net.UnknownHostException;
 import java.nio.charset.Charset;
 
-import me.wuwenbin.http.common.exception.HttpProcessException;
+import org.templateproject.http.common.exception.HttpProcessException;
 import org.apache.log4j.Logger;
 
 

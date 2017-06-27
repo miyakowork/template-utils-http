@@ -1,9 +1,9 @@
-package me.wuwenbin.http.javanet;
+package org.templateproject.http.javanet;
 
 
-import me.wuwenbin.http.common.exception.HttpProcessException;
-import me.wuwenbin.http.javanet.base.SendDataByHTTP;
-import me.wuwenbin.http.javanet.base.SendDataByHTTPS;
+import org.templateproject.http.common.exception.HttpProcessException;
+import org.templateproject.http.javanet.base.SendDataByHTTP;
+import org.templateproject.http.javanet.base.SendDataByHTTPS;
 
 /**
  * 

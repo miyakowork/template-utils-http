@@ -1,6 +1,6 @@
-package me.wuwenbin.http.javanet.base;
-import me.wuwenbin.http.common.SSLs;
-import me.wuwenbin.http.common.exception.HttpProcessException;
+package org.templateproject.http.javanet.base;
+import org.templateproject.http.common.SSLs;
+import org.templateproject.http.common.exception.HttpProcessException;
 
 import javax.net.ssl.HttpsURLConnection;
 import java.io.IOException;

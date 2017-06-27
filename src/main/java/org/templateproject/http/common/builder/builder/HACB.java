@@ -1,7 +1,7 @@
-package me.wuwenbin.http.common.builder.builder;
+package org.templateproject.http.common.builder.builder;
 
-import me.wuwenbin.http.common.SSLs;
-import me.wuwenbin.http.common.exception.HttpProcessException;
+import org.templateproject.http.common.SSLs;
+import org.templateproject.http.common.exception.HttpProcessException;
 import org.apache.http.HttpHost;
 import org.apache.http.client.config.RequestConfig;
 import org.apache.http.config.Registry;

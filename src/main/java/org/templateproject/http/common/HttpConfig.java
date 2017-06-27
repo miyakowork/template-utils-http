@@ -1,6 +1,6 @@
-package me.wuwenbin.http.common;
+package org.templateproject.http.common;
 
-import me.wuwenbin.http.httpclient.async.HttpAsyncClientUtil;
+import org.templateproject.http.httpclient.async.HttpAsyncClientUtil;
 import org.apache.http.Header;
 import org.apache.http.client.HttpClient;
 import org.apache.http.impl.nio.client.CloseableHttpAsyncClient;

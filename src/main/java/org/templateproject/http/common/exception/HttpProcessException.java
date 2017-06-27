@@ -1,4 +1,4 @@
-package me.wuwenbin.http.common.exception;
+package org.templateproject.http.common.exception;
 
 
 /** 

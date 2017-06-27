@@ -1,4 +1,4 @@
-package me.wuwenbin.http.common;
+package org.templateproject.http.common;
 
 import java.util.HashMap;
 import java.util.Map;

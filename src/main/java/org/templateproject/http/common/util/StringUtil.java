@@ -1,4 +1,4 @@
-package me.wuwenbin.http.common.util;
+package org.templateproject.http.common.util;
 
 import java.util.ArrayList;
 import java.util.List;

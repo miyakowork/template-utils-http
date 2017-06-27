@@ -1,7 +1,7 @@
 /*********************************************************
  * 2012-2013 (c) IHARM Corporation. All rights reserved. *
  *********************************************************/
-package me.wuwenbin.http.common.util;
+package org.templateproject.http.common.util;
 
 import java.io.IOException;
 import java.io.InputStream;

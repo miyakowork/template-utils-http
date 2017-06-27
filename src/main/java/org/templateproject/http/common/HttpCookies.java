@@ -1,4 +1,4 @@
-package me.wuwenbin.http.common;
+package org.templateproject.http.common;
 
 import org.apache.http.client.CookieStore;
 import org.apache.http.client.protocol.HttpClientContext;

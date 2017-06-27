@@ -1,10 +1,10 @@
-package me.wuwenbin.http.httpclient.async;
+package org.templateproject.http.httpclient.async;
 
-import me.wuwenbin.http.common.HttpConfig;
-import me.wuwenbin.http.common.HttpMethods;
-import me.wuwenbin.http.common.Utils;
-import me.wuwenbin.http.common.builder.builder.HACB;
-import me.wuwenbin.http.common.exception.HttpProcessException;
+import org.templateproject.http.common.HttpConfig;
+import org.templateproject.http.common.HttpMethods;
+import org.templateproject.http.common.Utils;
+import org.templateproject.http.common.builder.builder.HACB;
+import org.templateproject.http.common.exception.HttpProcessException;
 import org.apache.http.Header;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;

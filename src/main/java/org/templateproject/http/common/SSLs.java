@@ -1,6 +1,6 @@
-package me.wuwenbin.http.common;
+package org.templateproject.http.common;
 
-import me.wuwenbin.http.common.exception.HttpProcessException;
+import org.templateproject.http.common.exception.HttpProcessException;
 import org.apache.http.conn.ssl.SSLConnectionSocketFactory;
 import org.apache.http.conn.ssl.TrustSelfSignedStrategy;
 import org.apache.http.nio.conn.ssl.SSLIOSessionStrategy;

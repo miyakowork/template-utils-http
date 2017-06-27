@@ -1,4 +1,4 @@
-package me.wuwenbin.http.common;
+package org.templateproject.http.common;
 	
 	/**
 	 * 枚举HttpMethods方法
